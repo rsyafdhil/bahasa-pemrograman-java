@@ -24,6 +24,8 @@ public class myNewProgram {
             System.out.println();
         }
 
+        System.out.println("Kontol");
+
         // System.out.println(Arrays.toString(grades[1]));
 
     }
