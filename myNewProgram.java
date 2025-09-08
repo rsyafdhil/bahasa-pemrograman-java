@@ -43,7 +43,7 @@ public class myNewProgram {
                         System.out.println("Data mahasiswa " + hapusNama + " tidak ditemukan.");
                     }
                     break;
-                case "3": // edit hms
+                case "3": // edit mhs
                     String cariNama = JOptionPane
                             .showInputDialog(operasi + ". Masukkan nama mahasiswa yang mau diubah: ");
                     boolean isEdited = false;
